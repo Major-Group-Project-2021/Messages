@@ -15,6 +15,7 @@ public class OutputMessages {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Message to GitHub");
+		System.out.println("Second Message");
 
 	}
 
