@@ -16,6 +16,7 @@ public class OutputMessages {
 		
 		System.out.println("Message to GitHub");
 		System.out.println("Second Message");
+		System.out.println("Third Message to check fetch");
 
 	}
 
